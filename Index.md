@@ -40,3 +40,8 @@ git clone <url репозитория>
 ```
 git reset <commit hash>
 ```
+
+**10. Отправка изменений**
+```
+git push
+```
