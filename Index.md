@@ -45,3 +45,8 @@ git reset <commit hash>
 ```
 git push
 ```
+
+**11. Забор изменений**
+```
+git pull
+```
