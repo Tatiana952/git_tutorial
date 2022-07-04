@@ -35,3 +35,8 @@ git diff
 ```
 git clone <url репозитория>
 ```
+
+**9. Сброс изменений**
+```
+git reset <commit hash>
+```
